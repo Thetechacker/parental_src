@@ -1,0 +1,35 @@
+{
+  "name": "parental_src",
+  "version": "0.0.1-a",
+  "description": "Nintendo (Wii, 3DS, ...) Parental Control Password Reset Tool, Python (?) to Python Vanilla & JavaScript Vanilla Transcription of https://wii.marcan.st/parental",
+  "main": "parental_src.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thetechacker/parental_src.git"
+  },
+  "keywords": [
+    "Thetechacker",
+    "Node.js",
+    "JavaScript",
+    "Python",
+    "Wii",
+    "DS",
+    "DSi",
+    "3DS",
+    "Nintendo",
+    "Parental",
+    "Control",
+    "Password",
+    "Reset",
+    "Tool"
+  ],
+  "author": "Thetechacker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Thetechacker/parental_src/issues"
+  },
+  "homepage": "https://github.com/Thetechacker/parental_src#readme"
+}
